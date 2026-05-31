@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helperuonnect",
+        "uuid": 3494340,
+        "checksum": "khtade"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
